@@ -4,7 +4,7 @@ Basic datalogging to SPI flash memory on CircuitPython Express board.  Only Feat
 
 ## Credits
 
-Based off super-helpful suggestions by [tannewt2](https://forums.adafruit.com/memberlist.php?mode=viewprofile&u=342057) of Adafruit.
+Based off super-helpful suggestions by [tannewt2](https://forums.adafruit.com/memberlist.php?mode=viewprofile&u=342057) of Adafruit -- thank you for all the help!  The good ideas are theirs -- any implementation errors are my fault :)
 
 
 ## Requirements
