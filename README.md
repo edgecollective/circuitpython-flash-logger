@@ -20,7 +20,7 @@ Based off super-helpful suggestions by [tannewt2](https://forums.adafruit.com/me
 
 1. **Connect the microcontroller** to your laptop.
 
-Plug the Feather M0 Express into a USB port.  A USB drive will appear as CIRCUITPY.  Ignore this for now. 
+- Plug the Feather M0 Express into a USB port.  A USB drive will appear as CIRCUITPY.  Ignore this for now. 
 
 2. **Install the UF2**
 
