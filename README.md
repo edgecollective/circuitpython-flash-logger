@@ -3,7 +3,7 @@
 
 ## Credits
 
-This is based off a series of super helpful suggestions by [tannewt2](https://forums.adafruit.com/memberlist.php?mode=viewprofile&u=342057) of Adafruit.
+Based off super-helpful suggestions by [tannewt2](https://forums.adafruit.com/memberlist.php?mode=viewprofile&u=342057) of Adafruit.
 
 ## Description
 
