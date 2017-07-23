@@ -1,6 +1,6 @@
 # circuitpython-flash-logger
 
-Basic datalogging to SPI flash memory on CircuitPython Express board.  Only Feather M0 Express has been tested.
+Basic datalogging to SPI flash memory on an Adafruit CircuitPython Express board.  Only a [Feather M0 Express](https://learn.adafruit.com/adafruit-feather-m0-express-designed-for-circuit-python-circuitpython/overview) has been tested.
 
 ## Thanks!
 
