@@ -9,9 +9,9 @@ Based off super-helpful suggestions by [tannewt2](https://forums.adafruit.com/me
 
 ## Requirements
 
-- **Hardware**.  This particular setup requires using a simple switch to toggle the state of an IO pin on the board.  A through-hole 10K resistor can be used for this purpose.
+**Hardware:** This particular setup requires using a simple switch to toggle the state of an IO pin on the board.  A through-hole 10K resistor can be used for this purpose.
 
-- **Software**.  This firmware requires that a recent version of the [circuitpython UF2 master branch](https://github.com/adafruit/circuitpython/commits/master), which allows for filesystem remount via [storage.remount()](https://circuitpython.readthedocs.io/en/latest/shared-bindings/storage/__init__.html), be installed.  Instructions below for how to do this for the Feather M0 Express board.
+**Software:** This firmware requires that a recent version of the [circuitpython UF2 master branch](https://github.com/adafruit/circuitpython/commits/master), which allows for filesystem remount via [storage.remount()](https://circuitpython.readthedocs.io/en/latest/shared-bindings/storage/__init__.html), be installed.  Instructions below for how to do this for the Feather M0 Express board.
 
 
 ## Installation (Feather M0 Express)
